@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of John Robins, the false prophet, otherwise called the Shakers god, and Joshua Beck, and John King, the two false disciples, with the rest of their fellow-creatures now prisoners in the new-prison at Clarkenwell: delivered to divers of the gentry and citizens, who on Thursday, Friday, and Saturday last reported thither to dispute with them: with the citizens proposals to the said John Robins, concerning his opinion and judgement, and his answer thereunto: together with his prophesie of what is to come to pass this year, 1651. &amp; the strange things revealed to him: his religion, principles, and creed: as also his blasphemous tenents, in attributing an inspiration from the Holy Ghost: with the manner of their diet, and his woe pronounced concerning all those that drink ale. / By G.H. an ear-witness.</title>
+            <author>G. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86562</idno>
+            <idno type="STC">Wing H28</idno>
+            <idno type="STC">Thomason E629_13</idno>
+            <idno type="STC">ESTC R206440</idno>
+            <idno type="EEBO-CITATION">99865602</idno>
+            <idno type="PROQUEST">99865602</idno>
+            <idno type="VID">165863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165863)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E629[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of John Robins, the false prophet, otherwise called the Shakers god, and Joshua Beck, and John King, the two false disciples, with the rest of their fellow-creatures now prisoners in the new-prison at Clarkenwell: delivered to divers of the gentry and citizens, who on Thursday, Friday, and Saturday last reported thither to dispute with them: with the citizens proposals to the said John Robins, concerning his opinion and judgement, and his answer thereunto: together with his prophesie of what is to come to pass this year, 1651. &amp; the strange things revealed to him: his religion, principles, and creed: as also his blasphemous tenents, in attributing an inspiration from the Holy Ghost: with the manner of their diet, and his woe pronounced concerning all those that drink ale. / By G.H. an ear-witness.</title>
+                  <author>G. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Four woodcut illustrations on title page, captioned respectively: "This is the way", "I will deliver you.", "We are all Shakers.", and "Play musick".</note>
+                  <note>Annotation on Thomason copy: "June 2. 1651.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robins, John, fl. 1650-1652.</term>
+               <term>Beck, Joshua.</term>
+               <term>King, John, fl. 1651.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Shakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165863:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF JOHN ROBINS, the falſe Prophet, otherwiſe called the <hi>Shakers God,</hi> and <hi>Joſhua Beck,</hi> and <hi>John King,</hi> the two falſe Diſciples, with the reſt of their Fellow-Creatures now priſoners in the New-priſon at <hi>Clarkenwell:</hi> Delivered to divers of the Gentry and Citizens, who on <hi>Thurſday, Friday,</hi> and <hi>Saturday</hi> laſt reſorted thither to diſpute with them: With the Citizens Propoſals to the ſaid <hi>John Robins,</hi> concerning his Opinion and Judgment, and his Anſwer thereunto: Together with his Propheſie of what is to come to paſs this year, 1651. &amp; the ſtrange things revealed to him: his Religion, Principles, and Creed: as alſo his blaſ<g ref="char:EOLhyphen"/>phemous Tenents, in attributing an inſpiration from the Holy Ghoſt: with the manner of their Diet, and his Woe pronounced concerning all thoſe that drink Ale. <hi>By</hi> G. H. <hi>an Ear-witneſs.</hi>
+            </p>
+            <figure>
+               <figDesc>4 scenes representing the supposed activities of the Ranters or Shakers: Two men in hats pointing to a man and woman kissing; A man in a hat standing on a barrel preaching to a crowd of men, women, and children; Three men in hats sitting at a table; a man in a hat holding a musical instrument while a group of men, women, and children dance naked</figDesc>
+               <p>This is the way</p>
+               <p>I wil deliver you.</p>
+               <p>We are all Shakers.</p>
+               <p>Play Muſick</p>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. Wood,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:165863:2"/>
+            <pb n="1" facs="tcp:165863:2"/>
+            <head>To all that deſire the Truth.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>HAving been an Eye-witneſſe of the deportment and carriage of <hi>M. John Robins, Mr. Joſhua, M. King,</hi> and the reſt of their Fraternity called Ranters, now priſo<g ref="char:EOLhyphen"/>ners in the new priſon at <hi>Clarkenwell,</hi> through the im<g ref="char:EOLhyphen"/>portunity of certain friends, I was deſired to preſent to publike view the true Character of the various Opinion &amp; Judgments of theſe perſons, which are three: And firſt, for <hi>Mr. John Robins,</hi> whom the parties cited in the en<g ref="char:EOLhyphen"/>ſuing Tract acknowledge to be their God, and onely Re<g ref="char:EOLhyphen"/>deemer; but he utterly denies the attributes thereof, ſaying that there is no other God, but the Creator of Heaven and Earth; and that by the merits of his moſt glorious and bleſſed Son, he hopes to be made partaker of eternall joy and felicity; for <hi>(ſaith he)</hi> Jeſus Chriſt died for all, and he is the ſubſtantial cauſe and means for all, and that all men may be ſaved if they will, and that every man hath a will to come; but will not come, ſo that the cauſe is in them<g ref="char:EOLhyphen"/>ſelves that they are damned.</p>
+            <pb n="2" facs="tcp:165863:3"/>
+            <p>A ſecond ſort there be that ſay, That Chriſt died for none but for the Elect, and that none but the Elect are ſaved by the death of <hi>Chriſt.</hi>
+            </p>
+            <p>But that which is the most ſaddest, and of great asto<g ref="char:EOLhyphen"/>niſhment, is, The blaſphemous Opinion of <hi>John King,</hi> and his Aſſociates, who deny the Godhead, and bleſſed Trinity, acknowledging no other Lord and Saviour but <hi>John Ro<g ref="char:EOLhyphen"/>bins,</hi> whom they honour and worſhip; as will more evident<g ref="char:EOLhyphen"/>ly appear by the enſuing ſubject.</p>
+         </div>
+         <div type="account">
+            <head>A Declaration of the ſeveral Tenents, Opinion, and Principles, of Mr. Jo. bins, the new Prophet, and the reſt of his Fellow-creatures, now in ſafe cuſtody in New-priſon at Clarken<g ref="char:EOLhyphen"/>well.</head>
+            <p>ON Saturday the 24 of <hi>May,</hi> 1651. <hi>John Robins,</hi> and the reſt of his Fellow-creatures had a meet<g ref="char:EOLhyphen"/>ing in Long-Alley in Moorfields, where the Right Worſhipful Juſtice <hi>Hubert</hi> having information there<g ref="char:EOLhyphen"/>of, immediatly ſent his Clerk, and certain other Offi<g ref="char:EOLhyphen"/>cers to the ſaid place, who apprehended them, and brought them before the ſaid Juſtice; and after exa<g ref="char:EOLhyphen"/>mination, Ordered that they ſhould be committed to ſafe cuſtody, and accordingly were ſent to New<g ref="char:EOLhyphen"/>priſon,
+<pb n="3" facs="tcp:165863:3"/> where divers <hi>Lords, Knights, Ladies, Citizens,</hi> and others, daily frequent, to diſpute and converſe with them; And amongſt the reſt, one M. <hi>Alexander</hi> (an <hi>Oxford</hi> Student) on Friday laſt in the Afternoon, gave them a viſit, who entred into diſcourſe with the aforeſaid <hi>John King,</hi> and ask't him, Whether the Report abroad was true, That they acknowledg'd <hi>John Robins</hi> to be their God, and (his Wife) <hi>Mary Rob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> the <hi>Virgin Mary,</hi> and the child conceived by her (for indeed ſhe is very big) to be Chriſt, He an<g ref="char:EOLhyphen"/>ſwer'd, <hi>Yes, all this I verily be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieve, for this man whom you call</hi> John Robins, <hi>is God, He is both King, Prieſt, and Prophet, he is that</hi> Melcheſedike <hi>formerly ſpoken of, and is n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w come to reduce the world to its former condition, as it was before the fall of the firſt</hi> Adam. Alas! reply'd M. <hi>Alexander, I pity your condition, theſe are mere deluſi<g ref="char:EOLhyphen"/>ons of Satan, and may be put in the ſame ballance with that of</hi> Balaam, <hi>who taught</hi> Balac <hi>to caſt a ſtumbling block before the children of</hi> Iſrael, <hi>to ſacrifice to Idols, and to commit fornication,</hi> Rev. 2. 14. Well Sir! this is but one Doctors Opinion, ſaid <hi>John King,</hi> ſmiling: Yes Sir, <hi>It is truth, and flowes from the pure fountain of Holy Writ: I beſeech you give me leave to inſtance a few preſi<g ref="char:EOLhyphen"/>dents:</hi> Well Sir! proceed. In Queen <hi>Elizabeths</hi> Raign (ſaid M. <hi>Alexander)</hi> the like erroneous Opini<g ref="char:EOLhyphen"/>on ſprung up, which you now aſſert, &amp; divers there were, that accounted one <hi>Hacket</hi> to be their God; and amongſt the reſt one <hi>Ardingworth</hi> took upon him to proclaim him Chriſt in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heapfide, where they were both apprehended, and ſoon after <hi>Hacket</hi> receiv'd ſentence to be hang'd on a Gibbit neer the Standard
+<pb n="4" facs="tcp:165863:4"/> where he belcht forth theſe blaſphemous words, <hi>O thou God of Heaven, come down and ſave me, or elſe I'le rent thy Throne aſunder;</hi> and ſo miſerably died. But at the ſame inſtant of time, it pleaſed God to work a ſudden change in the heart of <hi>Arthingworth;</hi> for he became a pure Convert, and dy'd a worthy penitent.</p>
+            <p>
+               <hi>One thing more hath happened, which is very remarka<g ref="char:EOLhyphen"/>able, and is an evident ſymptom of Gods diſpleaſure againſt Ranters; Wherein I ſhall declare, the laſt words of one Mr.</hi> Underwood, <hi>now a Reformado in the Lord Gene<g ref="char:EOLhyphen"/>rals Regiment, but formerly Cornet to a Company of Dra<g ref="char:EOLhyphen"/>goons; which words were written from the ſaid Cornet</hi> Un<g ref="char:EOLhyphen"/>derwoods <hi>own mouth (at his own request) by Captain</hi> Clare, <hi>a Reformado in the ſame Troop with the afore<g ref="char:EOLhyphen"/>ſaid</hi> Underwood; <hi>and ſent by the above-named Captain</hi> Clare, <hi>to Lieutenant</hi> Empſon. <hi>This</hi> Underwood <hi>ha<g ref="char:EOLhyphen"/>ving been a notable companion with thoſe people which are vulgarly ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led</hi> Ranters, <hi>who maintain certain danger<g ref="char:EOLhyphen"/>ous and unheard of (till of late days) tenets, tending to the deſtruction of their poor ſouls; being troub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed in con<g ref="char:EOLhyphen"/>ſcience at his wicked ways, after he had made this follow<g ref="char:EOLhyphen"/>ing recantation, fell into a ſlumber, and within half an hour after died.</hi>
+            </p>
+            <p>M. <hi>Alexander</hi> having ended his conference with <hi>J. King,</hi> he went into <hi>John Robins</hi> chamber, and after a ſhort ſalute, askt him, Whether he was the God of thoſe creatures, that ſo attributed him to be: He re<g ref="char:EOLhyphen"/>ply'd, <hi>No, I am but a mortal creature as you are, onely I have received many</hi> Revelations <hi>from the Holy Ghoſt, and am inſpired by the bleſſed Spirit.</hi> Another ſtanding by ſaid, This woman affirms that you are God, <hi>Hang her</hi> (reply'd he) <hi>ſhe is damn'd:</hi> whereupon the wo<g ref="char:EOLhyphen"/>man
+<pb n="5" facs="tcp:165863:4"/> fell down on her knees trembling, to the great aſtoniſhment of the ſpectators, and had no power to riſe, untill her Prophet gave her command to ſtand up: whereupon M. <hi>Alexander</hi> ſtated this queſtion, <hi>How have you power to caſt down, and raiſe up, unleſſe it be by ſome ſatanical art, and abominable Witchcraft:</hi> He reply'd, <hi>All Arts come of the Devil, but mine proceeds from inſpiration of the Holy Ghoſt.</hi> Then ſaid another Gen<g ref="char:EOLhyphen"/>tleman ſtanding by, Why do your followers term you the third <hi>Adam?</hi> To that I anſwer particulary (ſaid he) in the behalf of my ſelf. So I am, for theſe reaſons. The firſt <hi>Adam</hi> was made a living ſoul: the ſecond, a quickning ſpirit, and in this law ſtands all the councel of God the Father. The firſt, the ſervant of Death appointed: The ſecond, the Son of life thereunto fore-ordained. And I am the third <hi>Adam,</hi> that muſt gain that which the firſt loſt. Alas! this is no ſound Argument (ſaid Mr. <hi>Alexander)</hi> I pray Sir, what belief are you on? I believe in God the Fa<g ref="char:EOLhyphen"/>ther (ſaid he) the maker of Heaven and Earth, and I believe in the communion of Saints, and the reſurre<g ref="char:EOLhyphen"/>ction of the dead: What can you have more? I pray cleer the room, for I am now call'd to ſome private meditation; and ſo the diſpute ended.</p>
+            <p>Their food is onely bread and water, although they have plenty of monies to buy other proviſions.</p>
+            <p>This <hi>Robins</hi> being askt the reaſon why he would drink no Ale, anſwer'd, <hi>Becauſe it was not of Gods making: it is the drink of the Beaſt</hi> (ſaid he) <hi>a poyſonous liquor, and wo be unto all them that drinks it.</hi>
+            </p>
+            <pb n="6" facs="tcp:165863:5"/>
+            <p>On Thurſday laſt, divers of the Gentry reſorted to <hi>John Robins</hi> in their Coaches, and having acceſſe into his chamber, after ſome queſtions, askt him whether he was the God of the Shakers: His Reply was, <hi>Is there any neceſſity that I muſt reſolve you?</hi> It was anſwer'd, <hi>That ſome of the Gentlewomen deſired to be re<g ref="char:EOLhyphen"/>ſolv'd therein: They ſhall have ſatisfaction immediatly,</hi> and with that he pull'd a paper out of his pocket, and preſented them with it; a copy whereof follow<g ref="char:EOLhyphen"/>eth:</p>
+            <p>WHereas I <hi>John Robins,</hi> do at this very inſtant lie un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the cenſure of the people to be the God of the Shakers, and their onely <hi>Lord</hi> in whom they put their truſt in; I do here declare in the pre<g ref="char:EOLhyphen"/>ſence of Almighty God, the Creator of Heaven and Earth, That I am free from aſſuming any ſuch power or Title to my ſelf, being but a mortal creature as you are; onely I have receiv'd the inſpiration of the Holy Ghoſt, and have had great things revealed to me, and am now ſent to call the Jews to converſion, which will be accompliſhed this preſent year, 1651. As for humane learning I never had any; my <hi>Hebrew, Greek,</hi> and <hi>Latine,</hi> comes by inſpiration. And ſo grace and peace be with you all, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>JOHN ROBINS.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <list>
+                     <head>
+                        <hi>The Names of the</hi> Shakers.</head>
+                     <item>John Robins <hi>Prophet.</hi>
+                     </item>
+                     <item>Joſhua Beck.</item>
+                     <item>John King.</item>
+                     <item>Gabriel Smith.</item>
+                     <item>John Langley.</item>
+                     <item>William Welch.</item>
+                     <item>Mary Robins.</item>
+                     <item>Mary Wenmore.</item>
+                     <item>Mary Arthingworth.</item>
+                     <item>Jane Thwait.</item>
+                  </list>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
